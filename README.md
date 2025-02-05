@@ -62,6 +62,6 @@ Si deseas contribuir al proyecto, puedes hacer un *fork* en GitHub, trabajar en 
 ---
 
 ## 📝 Licencia  
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE) y CC-BY.  
+Este proyecto se distribuye bajo la licencia [MIT](LICENSE) y [CC-BY](LICENSE).  
 
 ---
