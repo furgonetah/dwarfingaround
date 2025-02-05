@@ -48,10 +48,15 @@ Si al abrir el proyecto faltan paquetes o aparecen errores en los scripts, sigue
 
 ## 🔮 Futuras Mejoras  
 📌 Sonido al impactar con el pico.
+
 📌 Sustituir la música generada por IA por algo de composición propia, que cambie dinámicamente.
+
 📌 Animaciones al interactuar con los botones de mejoras.  
+
 📌 Sistema de guardado para continuar partidas en futuras sesiones.  
+
 📌 Minería pasiva mientras el juego está cerrado.  
+
 📌 Mejoras visuales.
 
 ---
