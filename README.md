@@ -66,6 +66,6 @@ El código de este proyecto está bajo la **Licencia MIT**, lo que significa que
 
 Los assets gráficos y sonoros están bajo la licencia **Creative Commons Attribution 4.0 International (CC-BY 4.0)**, por lo que puedes reutilizarlos y modificarlos, siempre que acredites la fuente.
 
-Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Consulta el archivo LICENSE para más detalles.
 
 ---
