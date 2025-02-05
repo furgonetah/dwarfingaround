@@ -62,6 +62,10 @@ Si deseas contribuir al proyecto, puedes hacer un *fork* en GitHub, trabajar en 
 ---
 
 ## 📝 Licencia  
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE) y [CC-BY](LICENSE).  
+El código de este proyecto está bajo la **Licencia MIT**, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, siempre que incluyas la atribución adecuada.
+
+Los assets gráficos y sonoros están bajo la licencia **Creative Commons Attribution 4.0 International (CC-BY 4.0)**, por lo que puedes reutilizarlos y modificarlos, siempre que acredites la fuente.
+
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
